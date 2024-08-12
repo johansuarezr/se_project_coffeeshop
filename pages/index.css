@@ -133,6 +133,10 @@
   list-style-type: none;
 }
 
+.recipes__iframe {
+  border: none;
+}
+
 .recipes__video-caption {
   display: flex;
   justify-content: space-between;
