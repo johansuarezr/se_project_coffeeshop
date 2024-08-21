@@ -26,3 +26,8 @@
   text-decoration: none;
   color: #000000;
 }
+
+.nav__link:hover {
+  color: #2f80ed;
+  transition: 0.2s;
+}

@@ -7,6 +7,7 @@
   background-image: url(../images/background_header.svg);
   background-size: cover;
   position: relative;
+  z-index: 1;
 }
 
 .header__image {
@@ -15,10 +16,11 @@
   right: 5px;
   width: 646px;
   height: 568px;
+  z-index: -1;
 }
 
 .header__title {
-  margin: 103px 0 0;
+  margin: 183px 0 0;
   font-family: Inter, Arial, sans-serif;
   font-weight: 500;
   font-size: 60px;
