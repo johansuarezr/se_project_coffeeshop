@@ -14,3 +14,7 @@ This is the second project of the Software Engineering program at TripleTen. It 
 ## Plan on improving the project
 
 Responsive Design: Ensure that future projects are fully responsive by testing it on various screen sizes and devices. Consider mobile-first design principles.
+
+## Deployed Project
+
+https://johansuarezr.github.io/se_project_coffeeshop
